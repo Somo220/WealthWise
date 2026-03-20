@@ -38,13 +38,13 @@
 
 | Landing Page | AI Chatbot |
 |:---:|:---:|
-| ![Screenshot 1](assets/wealth_ss1.png) | ![Screenshot 2](assets/wealth_ss2.png) |
+| ![Screenshot 1](assets/wealth_ss5.png) | ![Screenshot 2](assets/wealth_ss2.png) |
 
 | Stock Analyzer | Portfolio Dashboard |
 |:---:|:---:|
-| ![Screenshot 3](assets/wealth_ss3.png) | ![Screenshot 4](assets/wealth_ss4.png) |
+| ![Screenshot 3](assets/wealth_ss1.png) | ![Screenshot 4](assets/wealth_ss4.png) |
 
-<img src="assets/wealth_ss5.png" width="80%" />
+<img src="assets/wealth_ss3.png" width="80%" />
 *Financial Path Flow — AI-generated investment roadmap*
 
 </div>
