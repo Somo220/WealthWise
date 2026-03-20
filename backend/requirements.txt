@@ -1,8 +1,13 @@
+# ── Web Framework ─────────────────────────────────────────────────
 Flask
 Flask-Cors
 python-dotenv
+ 
+# ── AI / LLM ──────────────────────────────────────────────────────
+requests
+openai
 langchain
-langchain_ollama
-langchain_google_genai
 langchain_community
-google-generativeai
+ 
+# ── Data & Utils ──────────────────────────────────────────────────
+python-dateutil
