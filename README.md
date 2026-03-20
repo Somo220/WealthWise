@@ -399,40 +399,6 @@ http://localhost:5173
 - [ ] WhatsApp Bot Integration
 - [ ] Multi-language Support (Hindi, Tamil, Telugu)
 
----
-
-## 👥 Team
-
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/rachitgupta">
-<img src="https://rachit-chheda.netlify.app/static/media/HeroImage.ff8c45127080e96bd251.jpg" width="100px" style="border-radius:50%" /><br/>
-<b>Rachit Chheda</b><br/>
-<sub>Full Stack Developer</sub><br/>
-<sub>🛠️ Web Dev Expert</sub>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/Mohit-Nippanikar78">
-<img src="https://res.cloudinary.com/dk5acaaxg/image/upload/v1751547171/mohit%20portfolio/1740507167078_kmdfdz.jpg" width="100px" style="border-radius:50%" /><br/>
-<b>Mohit Nippanikar</b><br/>
-<sub>Full Stack Developer</sub><br/>
-<sub>🎨 UI/UX Specialist</sub>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/emmawilson">
-<img src="https://media.licdn.com/dms/image/v2/D5603AQF3PUbfQY3j3A/profile-displayphoto-shrink_800_800/0/1709204577716" width="100px" style="border-radius:50%" /><br/>
-<b>Meet Patel</b><br/>
-<sub>AI/ML Developer</sub><br/>
-<sub>🤖 AI/ML Expert</sub>
-</a>
-</td>
-</tr>
-</table>
-
----
 
 ## 📄 License
 
