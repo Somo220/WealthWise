@@ -408,7 +408,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 🙏 Acknowledgements
 
-- [Yahoo Finance](https://finance.yahoo.com/) — Real-time market data
+- [Yahoo Finance](https://finance.yahoo.com/) — Real-time market data.
 - [OpenRouter](https://openrouter.ai/) — Free AI model access
 - [Clerk](https://clerk.com/) — Authentication infrastructure
 - [React Flow](https://reactflow.dev/) — Financial path diagrams
